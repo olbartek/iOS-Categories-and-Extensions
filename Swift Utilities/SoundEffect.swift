@@ -1,11 +1,3 @@
-//
-//  SoundEffect.swift
-//  greatkiddo
-//
-//  Created by Bartosz Olszanowski on 17.11.2015.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import UIKit
 import AVFoundation
 

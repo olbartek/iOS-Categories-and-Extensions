@@ -1,11 +1,3 @@
-//
-//  BOPlaceholderTextView.swift
-//  greatkiddo
-//
-//  Created by Bartosz Olszanowski on 09.12.2015.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import UIKit
 
 class BOPlaceholderTextView: UITextView {

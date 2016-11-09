@@ -1,11 +1,3 @@
-//
-//  HUDHelper.swift
-//  greatkiddo
-//
-//  Created by Bartosz Olszanowski on 26.10.2015.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import UIKit
 import SVProgressHUD
 

@@ -1,11 +1,3 @@
-//
-//  NSDate+DaysBetweenDates.swift
-//  greatkiddo
-//
-//  Created by Błażej Chwiećko on 30/11/15.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import UIKit
 
 extension NSDate {

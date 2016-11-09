@@ -1,11 +1,3 @@
-//
-//  String+EmailValidation.swift
-//  greatkiddo
-//
-//  Created by Błażej Chwiećko on 02/11/15.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import Foundation
 
 extension String {

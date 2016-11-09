@@ -1,11 +1,3 @@
-//
-//  NSDate+DaysLeft.swift
-//  greatkiddo
-//
-//  Created by Błażej Chwiećko on 25/11/15.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import UIKit
 
 extension NSDate {
@@ -25,7 +17,7 @@ extension NSDate {
     }
     
     func daysLelft() -> Int? {
-        if let birthDate = self.birthdayInCurrentYear(), nextBirthday = birthDate.birthdayNextYear(){
+        if let birthDate = self.birthdayInCurrentYear(), let nextBirthday = birthDate.birthdayNextYear() {
             if birthDate > NSDate() {
                 let difference = NSCalendar.currentCalendar().components(.Day, fromDate: NSDate(), toDate: birthDate, options: [])
                 return difference.day

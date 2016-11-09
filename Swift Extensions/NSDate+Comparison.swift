@@ -1,11 +1,3 @@
-//
-//  NSDate+Comparison.swift
-//  greatkiddo
-//
-//  Created by Bartosz Olszanowski on 12.11.2015.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import Foundation
 
 func >(leftDate: NSDate, rightDate: NSDate) -> Bool {

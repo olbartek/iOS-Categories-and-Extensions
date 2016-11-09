@@ -1,11 +1,3 @@
-//
-//  NSDate+StartEnd.swift
-//  greatkiddo
-//
-//  Created by Bartosz Olszanowski on 08.11.2015.
-//  Copyright © 2015 Plus48. All rights reserved.
-//
-
 import Foundation
 
 let kAlmostADay: NSTimeInterval = 24 * 60 * 60 - 1

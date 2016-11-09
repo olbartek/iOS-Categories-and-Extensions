@@ -1,4 +1,3 @@
-// MARK: UIView + Constraints
 extension UIView {
     /**
      :returns: true if v is in this view's super view chain
